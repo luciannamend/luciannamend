@@ -1,6 +1,6 @@
 ### Hey, I'm Lucianna! 
 
-💻 **A Software Engineering Student at Centennial College** </br>
+💻 **A Software Engineering Technology Student ** </br>
 🌍 **Languages**: I speak Portuguese, English, and a little bit of Spanish! </br> 
 🚀 **Currently working on:** A finance app using Java and MySQL  </br>
 📫 **Contact:** [[LinkedIn](https://www.linkedin.com/in/lucianna-mendonca-domingues/)] | [luciannamend@gmail.com]  </br>
