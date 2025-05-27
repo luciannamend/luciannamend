@@ -2,7 +2,7 @@
 
 💻 **A Software Engineering Technology Student** </br>
 🌍 **Languages**: I speak Portuguese, English, and a little bit of Spanish! </br> 
-🚀 **Currently working on:** A Garden Watch App using Java and Docker-MySQL  </br>
+🚀 **Currently working on:**  Garden Watch App using Java and MySQL  </br>
 📫 **Contact:** [[LinkedIn](https://www.linkedin.com/in/lucianna-mendonca-domingues/)] | [luciannamend@gmail.com]  </br>
 
 🛠️ **Tech Stack:**  </br>
